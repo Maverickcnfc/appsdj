@@ -1,0 +1,11 @@
+.logos{
+    width: 300px;
+}
+
+.box-scrollbar{
+    height: calc(85vh - 35px);
+
+    text-align: center;
+
+    overflow: auto;
+}
